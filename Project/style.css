@@ -10,7 +10,7 @@ html, body {
 
 .navbar {
   padding: .8rem;
-  background-color:rgba(0,0,0,0.3);
+  background-color:rgba(0,0,0,0.5);
   transition: 0.8s ease;
 }
 
